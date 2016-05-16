@@ -1,4 +1,4 @@
-# Hacksmiths Style GUides and Other Resources
+# Hacksmiths Style Guides and Other Resources
 
 ## Style Guides
 Here at Hacksmiths, we take writing good code very seriously.  We strictly follow the below style guides, in some cases with a few tweaks.  The main purpose of the Hacksmiths is to give us all an opportunity to grow our experience.  Thus, we will strive to implement best practices in all of our work in an effort to grow a reusable codebase that we are proud of.
