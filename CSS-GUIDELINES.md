@@ -11,11 +11,12 @@ ComponentName.module.scss
 where ComponentName is the name of the react component.
 
 An example file structure is as follows:
+```
 |-components
 |--ComponentName
 |---ComponentName.js
 |---ComponentName.module.scss
-
+```
 
 ### Sass
 Follow the same rules as explained in the CSS Modules when using Sass.
