@@ -4,10 +4,12 @@
 Here at Hacksmiths, we take writing good code very seriously.  We strictly follow the below style guides, in some cases with a few tweaks.  The main purpose of the Hacksmiths is to give us all an opportunity to grow our experience.  Thus, we will strive to implement best practices in all of our work in an effort to grow a reusable codebase that we are proud of.
 
 ### Front End
+From working on several large scale React projects, we have developed a collection of configuration and organization best practices.  We begin with the AirBnb style guides and add a few small tweaks.  Please start by reading the AirBnb style guides (linked below).
 * [Javascript](https://github.com/airbnb/javascript)
 * [AirBNB React / JSX Styleguide](https://github.com/airbnb/javascript/tree/master/react)
-* [AirBNB Style Linters](https://github.com/airbnb/javascript/tree/master/linters)
-* [CSS & SASS](https://github.com/airbnb/css)
+* [ESLINT Configuration](https://github.com/RyanCCollins/react-redux-simple-starter/blob/master/.eslintrc)
+* [File Organization](https://github.com/RyanCCollins/react-redux-simple-starter)
+* [HTML 5 Best Practices](https://github.com/teamhacksmiths/food-drivr-frontend/blob/master/HTML5-GUIDELINES.md)
 
 ### Back End
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
