@@ -1,5 +1,7 @@
 ### ESLINT Configuration
-Our ESLint configuration uses the eslint-config-airbnb configuration file, the babel-eslint parser and has several small configuration tweaks that we have determined work well for us and our projects.
+Our [ESLint configuration](https://github.com/teamhacksmiths/project-resources/blob/master/configuration/.eslintrc) uses the eslint-config-airbnb configuration file, the babel-eslint parser and has several small configuration tweaks that we have determined work well for us and our projects.
+
+Please download the [.eslintrc file](https://github.com/teamhacksmiths/project-resources/blob/master/configuration/.eslintrc) and put it in the root directory of your project to get started.
 
 #### Configuration Tweaks
 [eol-last](https://github.com/eslint/eslint/blob/master/docs/rules/eol-last.md): This plugin forces a new line at the end of a non-empty file.
