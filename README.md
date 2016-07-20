@@ -7,7 +7,7 @@ Here at Hacksmiths, we take writing good code very seriously.  We strictly follo
 From working on several large scale React projects, we have developed a collection of configuration and organization best practices.  We begin with the AirBnb style guides and add a few small tweaks.  We have forked the AirBnb styleguides and will add tweaks where appropriate.
 * [Javascript](https://github.com/teamhacksmiths/javascript)
 * [AirBNB React / JSX Styleguide](https://github.com/teamhacksmiths/javascript/tree/master/react)
-* [ESLINT Configuration](https://github.com/RyanCCollins/react-redux-simple-starter/blob/master/.eslintrc)
+* [Setting up ESLint](https://github.com/teamhacksmiths/project-resources/blob/master/configuration/about.md)
 * [File Organization](https://github.com/RyanCCollins/react-redux-simple-starter)
 * [HTML 5 Best Practices](https://github.com/teamhacksmiths/project-resources/blob/master/HTML5-GUIDELINES.md)
 
