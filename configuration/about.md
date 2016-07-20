@@ -6,7 +6,7 @@ Please download the [.eslintrc file](https://github.com/teamhacksmiths/project-r
 #### Configuration Tweaks
 [eol-last](https://github.com/eslint/eslint/blob/master/docs/rules/eol-last.md): This plugin forces a new line at the end of a non-empty file.
 
-[func-names](http://eslint.org/docs/rules/func-names) Forces that you add after the function declaration.  In the case below, the function should be written as:
+[func-names](http://eslint.org/docs/rules/func-names) Forces that you add a function name after the function declaration.  In the case below, the function should be written as:
 ```
 Foo.prototype.bar = function bar() {
 
