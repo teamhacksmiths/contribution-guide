@@ -11,6 +11,9 @@ From working on several large scale React projects, we have developed a collecti
 * [File Organization](https://github.com/RyanCCollins/react-redux-simple-starter)
 * [HTML 5 Best Practices](https://github.com/teamhacksmiths/food-drivr-frontend/blob/master/HTML5-GUIDELINES.md)
 
+#### Front End Organization
+We will use the above linked boilerplate as a starting point and eventually will migrate over to the [https://github.com/mxstbr/react-boilerplate](React Boilerplate) file organization when appropriate.  The main difference is that the React Redux Simple Starter project seperates out actions and reducers into seperate folders whereas the React Boilerplate encourages encapsulating all functionality for a single component within the component folder.
+
 ### Back End
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Tooling for Style Guide (Rubocop)](https://github.com/bbatsov/rubocop)
