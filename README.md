@@ -9,7 +9,7 @@ From working on several large scale React projects, we have developed a collecti
 * [AirBNB React / JSX Styleguide](https://github.com/teamhacksmiths/javascript/tree/master/react)
 * [ESLINT Configuration](https://github.com/RyanCCollins/react-redux-simple-starter/blob/master/.eslintrc)
 * [File Organization](https://github.com/RyanCCollins/react-redux-simple-starter)
-* [HTML 5 Best Practices](https://github.com/teamhacksmiths/food-drivr-frontend/blob/master/HTML5-GUIDELINES.md)
+* [HTML 5 Best Practices](https://github.com/teamhacksmiths/project-resources/blob/master/HTML5-GUIDELINES.md)
 
 #### Front End Organization
 We will use the above linked boilerplate as a starting point and eventually will migrate over to the [React Boilerplate](https://github.com/mxstbr/react-boilerplate) file organization when appropriate.  The main difference is that the React Redux Simple Starter project seperates out actions and reducers into seperate folders whereas the React Boilerplate encourages encapsulating all functionality for a single component within the component folder.
