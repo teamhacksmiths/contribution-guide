@@ -13,6 +13,22 @@ From working on several large scale React projects, we have developed a collecti
 And then we setup a few minor modifications.  See below for a guide to setup ESLint using our configuration file.
 * [Setting up ESLint](https://github.com/teamhacksmiths/project-resources/blob/master/configuration/about.md)
 
+ECMAScript (ES6-7):
+We recommend that our projects adopt stable features of the ECMAScript specification as they are released to the public.  We will use Babel until all of the desired features are included in the majority of web browsers. 
+
+An example of the [Babel presets](https://github.com/RyanCCollins/react-redux-simple-starter/blob/master/package.json) we have used are as follows
+```
+  "presets": [
+    "es2015",
+    "react",
+    "stage-0"
+  ]
+```
+
+Please take the time to study ES6 onwards.
+* [ES6 Features](http://es6-features.org/)
+* [ES6 And Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) from the YDKJS Series by Kyle Simpson.
+
 #### HTML 5 Guidelines
 * [HTML 5 Best Practices](https://github.com/teamhacksmiths/project-resources/blob/master/HTML5-GUIDELINES.md)
 
