@@ -29,7 +29,7 @@ Although we do not strictly follow the [Khan Academy Style Guides](https://githu
 * [Tooling for Style Guide (Rubocop)](https://github.com/bbatsov/rubocop)
 
 #### Python
-* [Khan Academy's](https://github.com/teamhacksmiths/style-guides/blob/master/style/python.md).
+* [Khan Academy's Python Style Guide](https://github.com/teamhacksmiths/style-guides/blob/master/style/python.md).
 
 ### iOS
 * [Swift Style Guide](https://github.com/ryan-collins-forks/swift-style-guide)
