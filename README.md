@@ -4,7 +4,7 @@
 Here at Hacksmiths, we take writing good code very seriously.  We strictly follow the below style guides, in some cases with a few tweaks.  The main purpose of the Hacksmiths is to give us all an opportunity to grow our experience.  Thus, we will strive to implement best practices in all of our work in an effort to grow a reusable codebase that we are proud of.
 
 ### Front End
-From working on several large scale React projects, we have developed a collection of configuration and organization best practices.  We begin with the AirBnb style guides and add a few small tweaks.  We have forked the AirBnb styleguides and will add tweaks where appropriate.
+From working on several large scale React projects, we have developed a collection of configuration and organization best practices.  We begin with the AirBnb style guides and add a few small tweaks.
 * [Javascript](https://github.com/teamhacksmiths/javascript)
 * [AirBNB React / JSX Styleguide](https://github.com/teamhacksmiths/javascript/tree/master/react)
 * [Setting up ESLint](https://github.com/teamhacksmiths/project-resources/blob/master/configuration/about.md)
