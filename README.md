@@ -72,7 +72,9 @@ References:
 * [Hindley Millner Type Signature](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch7.md) from the Mostly Adequate Guide to Functional Programming.
 
 ### Testing
-At Google, there is only 1 QA tester for every 10 software engineers.  This is because they have nurtured a culture that encourages testing at every stage of the process.  We will rely on our contributores heavily to test their own code.  We recommend TDD, BDD, or any other DD you can think of.  Whatever works to eliminate the probability of regressions and keep your code running is fine with us.
+At Google, there is only 1 QA tester for every 10 Software Engineers.  They have nurtured a culture that encourages testing at every stage of the process. We intend to do the same!
+
+We recommend TDD, BDD, or any other DD you can think of.  We will rely on your best judgement and will also participate in code review and QA testing at various stages throughout the process.
 
 #### Documentation and Project Management
 Our strategy for documentation will evolve over time.  It's recommended that we utilize agile, but our exact tools and processes are still being determined.
