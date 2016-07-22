@@ -16,7 +16,7 @@ And then we setup a few minor modifications.  See below for a guide to setup ESL
 #### ECMAScript (ES6-7):
 We recommend that our projects adopt stable features of the [ECMAScript specification](http://www.ecmascript.org/) as they are released to the public.  We will use Babel until all of the desired features are included in the majority of web browsers. 
 
-An example of the [Babel presets](https://github.com/RyanCCollins/react-redux-simple-starter/blob/master/package.json) we have used are as follows
+An example of the [Babel presets](https://github.com/RyanCCollins/react-redux-simple-starter/blob/master/package.json) we have used is as follows
 ```
   "babel": {
     "presets": [
