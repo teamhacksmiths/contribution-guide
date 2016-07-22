@@ -18,11 +18,13 @@ We recommend that our projects adopt stable features of the [ECMAScript specific
 
 An example of the [Babel presets](https://github.com/RyanCCollins/react-redux-simple-starter/blob/master/package.json) we have used are as follows
 ```
-  "presets": [
-    "es2015",
-    "react",
-    "stage-0"
-  ]
+  "babel": {
+    "presets": [
+      "es2015",
+      "react",
+      "stage-0"
+    ]
+  }
 ```
 
 Please take the time to study ES6 onwards.
