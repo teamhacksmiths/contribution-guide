@@ -28,10 +28,9 @@ Although we do not strictly follow the [Khan Academy Style Guides](https://githu
 ### Back End
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Tooling for Style Guide (Rubocop)](https://github.com/bbatsov/rubocop)
-*
 
 #### Python
-[Our recommended style guide](https://github.com/teamhacksmiths/style-guides/blob/master/style/python.md) for Python projects is Khan Academy's.
+Our recommended style guide for Python projects is [Khan Academy's]((https://github.com/teamhacksmiths/style-guides/blob/master/style/python.md).
 
 ### iOS
 * [Swift Style Guide](https://github.com/ryan-collins-forks/swift-style-guide)
