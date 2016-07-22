@@ -1,16 +1,16 @@
 # Hacksmiths Style Guides and Other Resources
 
 ## Style Guides
-Here at Hacksmiths, we take writing good code very seriously.  We strictly follow the below style guides, in some cases with a few tweaks.  The main purpose of the Hacksmiths is to give us all an opportunity to grow our experience.  Thus, we will strive to implement best practices in all of our work in an effort to grow a reusable codebase that we are proud of.
+Here at Hacksmiths, we take writing good code very seriously.  We follow strictly the below style guides and best practices, in some cases with a few small modifications, in an effort to grow a reusable codebase of which we can all be proud.
 
-It is recommended that _every_ contributor read through the following guides (it's not that much)! Doing so will enable an open dialog regarding style and will encourage everyone to become conscious of the importantce of good style.
+It is recommended that _every_ contributor read through the following guides. Doing so will enable an open dialog regarding style and will encourage everyone to become conscious of the importance of best practices and style.
 
 ### Front End
 From working on several large scale React projects, we have developed a collection of configuration and organization best practices.  We begin with the AirBnb JSX and Javascript style guides.
 * [Javascript](https://github.com/teamhacksmiths/javascript)
 * [AirBNB React / JSX Styleguide](https://github.com/teamhacksmiths/javascript/tree/master/react)
 
-And then we setup eslint using the AirBnb configuration and we add a few small tweaks.
+And then we setup ESLint starting with the AirBnb configuration and adding a few modifications.  See below for a guide to setup ESLint.
 * [Setting up ESLint](https://github.com/teamhacksmiths/project-resources/blob/master/configuration/about.md)
 
 #### HTML 5 Guidelines
