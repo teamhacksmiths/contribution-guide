@@ -10,7 +10,7 @@ From working on several large scale React projects, we have developed a collecti
 * [Javascript](https://github.com/teamhacksmiths/javascript)
 * [AirBNB React / JSX Styleguide](https://github.com/teamhacksmiths/javascript/tree/master/react)
 
-And then we setup ESLint starting with the AirBnb configuration and adding a few modifications.  See below for a guide to setup ESLint.
+And then we setup a few minor modifications.  See below for a guide to setup ESLint using our configuration file.
 * [Setting up ESLint](https://github.com/teamhacksmiths/project-resources/blob/master/configuration/about.md)
 
 #### HTML 5 Guidelines
