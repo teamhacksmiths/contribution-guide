@@ -39,7 +39,7 @@ Although we do not strictly follow the [Khan Academy Style Guides](https://githu
 * [Java Style Guide](http://source.android.com/source/code-style.html)
 
 ### Git
-Our Git style is a mashup of a few different philosophies. For one, we mostly follow the [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).  We follow a strict [Commit Message Style Guide](https://udacity.github.io/git-styleguide/) written by Udacity.  Finally, for everything else, we follow this [Git Style Guide](https://github.com/jonathanong/git-style-guide).  
+Our Git style is a combination of a few different philosophies. For one, we mostly follow the [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).  We follow a strict [Commit Message Style Guide](https://udacity.github.io/git-styleguide/) written by Udacity.  Finally, for everything else, we follow this [Git Style Guide](https://github.com/jonathanong/git-style-guide).  
 
 ### Other
 As our codebase grows, we will update our guides, adding our tools and configuration.  As we make decisions to implement new technologies, we will update this guide and commit our tools to the Hacksmiths github team account.
