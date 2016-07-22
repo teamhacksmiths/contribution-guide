@@ -67,9 +67,12 @@ Standard (any language) docs comments
 This will make our code self documenting, eliminating the need for us to duplicate documentation efforts.  The litmus test for whether a comment is good or not is whether there is a documenation generator that can parse it, so feel free to use your favorite documentation / commenting tools.
 
 References:
-[JSDocs](http://usejsdoc.org/)
-[Yard Docs](http://yardoc.org/)
-[Hindley Millner Type Signature](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch7.md) from the Mostly Adequate Guide to Functional Programming.
+* [JSDocs](http://usejsdoc.org/)
+* [Yard Docs](http://yardoc.org/)
+* [Hindley Millner Type Signature](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch7.md) from the Mostly Adequate Guide to Functional Programming.
+
+### Testing
+At Google, there is only 1 QA tester for every 10 software engineers.  This is because they have nurtured a culture that encourages testing at every stage of the process.  We will rely on our contributores heavily to test their own code.  We recommend TDD, BDD, or any other DD you can think of.  Whatever works to eliminate the probability of regressions and keep your code running is fine with us.
 
 #### Documentation and Project Management
 Our strategy for documentation will evolve over time.  It's recommended that we utilize agile, but our exact tools and processes are still being determined.
