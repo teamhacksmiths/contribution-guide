@@ -3,25 +3,39 @@
 ## Style Guides
 Here at Hacksmiths, we take writing good code very seriously.  We strictly follow the below style guides, in some cases with a few tweaks.  The main purpose of the Hacksmiths is to give us all an opportunity to grow our experience.  Thus, we will strive to implement best practices in all of our work in an effort to grow a reusable codebase that we are proud of.
 
+It is recommended that _every_ contributor read through the following guides (it's not that much)! Doing so will enable an open dialog regarding style and will encourage everyone to become conscious of the importantce of good style.
+
 ### Front End
-From working on several large scale React projects, we have developed a collection of configuration and organization best practices.  We begin with the AirBnb style guides and add a few small tweaks.
+From working on several large scale React projects, we have developed a collection of configuration and organization best practices.  We begin with the AirBnb JSX and Javascript style guides.
 * [Javascript](https://github.com/teamhacksmiths/javascript)
 * [AirBNB React / JSX Styleguide](https://github.com/teamhacksmiths/javascript/tree/master/react)
+
+And then we setup eslint using the AirBnb configuration and we add a few small tweaks.
 * [Setting up ESLint](https://github.com/teamhacksmiths/project-resources/blob/master/configuration/about.md)
-* [File Organization](https://github.com/RyanCCollins/react-redux-simple-starter)
+
+#### HTML 5 Guidelines
+Please read the following contribution guide regarding HTML 5 Guidelines:
 * [HTML 5 Best Practices](https://github.com/teamhacksmiths/project-resources/blob/master/HTML5-GUIDELINES.md)
 
-Although we do not strictly follow the [Khan Academy Style Guides](https://github.com/teamhacksmiths/style-guides/blob/master/style/react.md), please read it as it contains many useful hints and best practices for working with React.
-
 #### Front End Organization
-We will use the above linked boilerplate as a starting point and eventually will migrate over to the [React Boilerplate](https://github.com/mxstbr/react-boilerplate) file organization when appropriate.  The main difference is that the React Redux Simple Starter project seperates out actions and reducers into seperate folders whereas the React Boilerplate encourages encapsulating all functionality for a single component within the component folder. If you're not clear on how this works, please read [this article](http://engineering.kapost.com/2016/01/organizing-large-react-applications/) about organizing large scale react apps. 
+Our earlier work followed the File-Type-First structure, as seen in [this Boilerplate Project](https://github.com/RyanCCollins/react-redux-simple-starter)
+
+However, it has occured to us that following a feature first mindset has enabled reusability and scalability and thus will try to migrate to the feature first organization pattern when appropriate to do so.  For an example of the latter, please see the [React Boilerplate](https://github.com/mxstbr/react-boilerplate) project, read [this series](http://engineering.kapost.com/2016/01/organizing-large-react-applications/) and / or [watch this talk](https://vimeo.com/168648012) about scaling React by the creator of the React Boilerplate.
+
+#### Other resources
+Although we do not strictly follow the [Khan Academy Style Guides](https://github.com/teamhacksmiths/style-guides/blob/master/style/react.md), please read it as it contains many useful hints and best practices for working with React.
 
 ### Back End
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Tooling for Style Guide (Rubocop)](https://github.com/bbatsov/rubocop)
+*
+
+#### Python
+[Our recommended style guide](https://github.com/teamhacksmiths/style-guides/blob/master/style/python.md) for Python projects is Khan Academy's.
 
 ### iOS
 * [Swift Style Guide](https://github.com/ryan-collins-forks/swift-style-guide)
+* [Objective-C](https://github.com/Khan/objective-c-style-guide)
 
 ### Android
 * [Java Style Guide](http://source.android.com/source/code-style.html)
