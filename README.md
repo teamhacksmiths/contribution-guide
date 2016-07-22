@@ -44,6 +44,33 @@ Our Git style is a combination of a few different philosophies. For one, we most
 ### Other
 As our codebase grows, we will update our guides, adding our tools and configuration.  As we make decisions to implement new technologies, we will update this guide and commit our tools to the Hacksmiths github team account.
 
+#### Commenting
+Commenting is not only considerate to your teammates, it's considerate to the future version of you! Do us all a favor and adopt a commenting pattern.
+
+Examples:
+The [Hindley Milner Type signature](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system) is a self documenting way to write functional code type signatures.
+```
+// myAmazingFunction :: String -> [String] -> {Action}
+// functionName :: ArgumentType -> AnotherArgumentType -> ReturnType
+```
+
+Standard (any language) docs comments
+```
+/**
+ * @function myAmazingFunction
+ * @description An amazing function that is seriously awesome and amazing
+ * @param String - Some amazing string
+ * @param [Object] - An array / list of amazing strings
+ * @return {Action} - An Action object
+ */
+```
+This will make our code self documenting, eliminating the need for us to duplicate documentation efforts.  The litmus test for whether a comment is good or not is whether there is a documenation generator that can parse it, so feel free to use your favorite documentation / commenting tools.
+
+References:
+[JSDocs](http://usejsdoc.org/)
+[Yard Docs](http://yardoc.org/)
+[Hindley Millner Type Signature](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch7.md) from the Mostly Adequate Guide to Functional Programming.
+
 #### Documentation and Project Management
 Our strategy for documentation will evolve over time.  It's recommended that we utilize agile, but our exact tools and processes are still being determined.
 
