@@ -14,13 +14,12 @@ And then we setup ESLint starting with the AirBnb configuration and adding a few
 * [Setting up ESLint](https://github.com/teamhacksmiths/project-resources/blob/master/configuration/about.md)
 
 #### HTML 5 Guidelines
-Please read the following contribution guide regarding HTML 5 Guidelines:
 * [HTML 5 Best Practices](https://github.com/teamhacksmiths/project-resources/blob/master/HTML5-GUIDELINES.md)
 
 #### Front End Organization
 Our earlier work followed the File-Type-First structure, as seen in [this Boilerplate Project](https://github.com/RyanCCollins/react-redux-simple-starter)
 
-However, it has occured to us that following a feature first mindset has enabled reusability and scalability and thus will try to migrate to the feature first organization pattern when appropriate to do so.  For an example of the latter, please see the [React Boilerplate](https://github.com/mxstbr/react-boilerplate) project, read [this series](http://engineering.kapost.com/2016/01/organizing-large-react-applications/) and / or [watch this talk](https://vimeo.com/168648012) about scaling React by the creator of the React Boilerplate.
+However, it has occured to us that following a feature first mindset has enabled reusability and scalability and thus we will try to migrate to the feature first organization pattern when appropriate to do so.  For an example of the latter, please see the [React Boilerplate](https://github.com/mxstbr/react-boilerplate) project, read [this series](http://engineering.kapost.com/2016/01/organizing-large-react-applications/) and / or [watch this talk](https://vimeo.com/168648012) about scaling React by the creator of the React Boilerplate.
 
 #### Other resources
 Although we do not strictly follow the [Khan Academy Style Guides](https://github.com/teamhacksmiths/style-guides/blob/master/style/react.md), please read it as it contains many useful hints and best practices for working with React.
@@ -30,7 +29,7 @@ Although we do not strictly follow the [Khan Academy Style Guides](https://githu
 * [Tooling for Style Guide (Rubocop)](https://github.com/bbatsov/rubocop)
 
 #### Python
-Our recommended style guide for Python projects is [Khan Academy's](https://github.com/teamhacksmiths/style-guides/blob/master/style/python.md).
+* [Khan Academy's](https://github.com/teamhacksmiths/style-guides/blob/master/style/python.md).
 
 ### iOS
 * [Swift Style Guide](https://github.com/ryan-collins-forks/swift-style-guide)
