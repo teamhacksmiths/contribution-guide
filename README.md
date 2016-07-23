@@ -98,3 +98,7 @@ We recommend TDD, BDD, or any other DD you can think of.  We will rely on your b
 Our strategy for documentation will evolve over time.  It's recommended that we utilize agile, but our exact tools and processes are still being determined.
 
 At the time of writing, we are utilizing Asana for Project Management and Ticketing, Google Documents for V1 specs and [Slate](https://github.com/tripit/slate), or another static site generator, to document our APIs. See the [Food Drivr Project](https://github.com/teamhacksmiths/food-drivr) and [API Reference](http://teamhacksmiths.github.io/food-drivr-api-documentation/) for a reference.  As much as we try to utilize other tools, keeping our projects centered around Github is best.  Make sure to update documentation within the repos and link to other tools where appropriate.
+
+### TODOS
+* [ ] Add code samples for all sections
+* [ ] Add new languages as we use new tech
