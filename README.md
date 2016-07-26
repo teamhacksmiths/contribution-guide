@@ -31,6 +31,9 @@ Please take the time to study ES6 onwards.
 * [ES6 Features](http://es6-features.org/)
 * [ES6 And Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) from the YDKJS Series by Kyle Simpson.
 
+### Pre Commit Hooks
+We will implement pre commit hooks that will test the code against the eslint and commit style guides.  This means that code that does not pass will not be permitted into the repository.
+
 #### HTML 5 Guidelines
 * [HTML 5 Best Practices](https://github.com/teamhacksmiths/project-resources/blob/master/HTML5-GUIDELINES.md)
 
